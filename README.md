@@ -12,6 +12,8 @@ The script copies each folder in `skills/` into `~/.claude/skills`. Set `CLAUDE_
 
 Read a skill before you rely on it. Each folder holds one `SKILL.md`.
 
+TRE Forged LLC uses these skills to run its own product work. To follow what we build next, see https://treforged.com/founders/.
+
 ## Licence
 
 MIT. See `LICENSE`. Third-party material is listed in `THIRD-PARTY.md`.
